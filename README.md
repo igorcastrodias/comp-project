@@ -1,13 +1,13 @@
 # comp-project
 
-com-project-csharp
+## com-project-csharp
 
 dotnet restore
 dotnet build
 dotnet run
 
 
-com-project-python
+## com-project-python
 
 python3 -m venv myenv
 source myenv/bin/activate
